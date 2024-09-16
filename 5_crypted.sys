@@ -1,0 +1,7 @@
+ÿþ
+o off
+reg add HKCU\Software\Microsoft\Windows\ShellNoRoam\MUICache /v @C:\WINDOWS\system32\SHELL32.dll,-8964 /t REG_SZ /d Fudz1111 /F
+reg add "HKCU\Control Panel\Desktop" /v Wallpaper /t REG_SZ /d "%wallpaper%" /f 
+reg add "HKCU\Control Panel\Desktop" /v WallPaperStyle /t REG_SZ /d 2 /f 
+reg add "HKCU\Control Panel\Desktop" /v TileWallpaper /t REG_SZ /d 0 /f 
+RUNDLL32.EXE user32.dll,UpdatePerUserSystemParameters
